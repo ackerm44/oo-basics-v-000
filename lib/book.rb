@@ -30,4 +30,8 @@ class Book
   def genre
     @genre
   end
+
+  def turn_page
+    puts "You read fast!"
+  end
 end
